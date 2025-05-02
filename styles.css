@@ -114,6 +114,9 @@ footer {
   border-radius: 10px;
   text-decoration: none;
 }
+.overlay:focus {
+  opacity: 1;
+}
 
 .facebook-watch-overlay {
   background-color: rgba(255, 255, 255, 0.279);
